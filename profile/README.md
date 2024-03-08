@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+请注意：未标注"和平精英"的仓库（repo），源码都是用于国际服pubgm的
+
 <!--
 
 **Here are some ideas to get you started:**
